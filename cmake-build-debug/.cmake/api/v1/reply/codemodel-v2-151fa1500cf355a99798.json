@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "TASK5_DISTANCE_CONVERSION",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "TASK5_DISTANCE_CONVERSION::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TASK5_DISTANCE_CONVERSION-Debug-9fa94bc320f6e7169254.json",
+					"name" : "TASK5_DISTANCE_CONVERSION",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/pc/CLionProjects/TASK5 DISTANCE CONVERSION/cmake-build-debug",
+		"source" : "C:/Users/pc/CLionProjects/TASK5 DISTANCE CONVERSION"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
